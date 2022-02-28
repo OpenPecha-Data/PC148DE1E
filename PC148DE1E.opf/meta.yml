@@ -1,0 +1,20 @@
+id: PC148DE1E
+initial_creation_type: input
+source_metadata:
+  title: Gyarong Khandro Series
+  language: en
+  description: Our series of texts related to Gyarong Khandro Dechen Wangmo (rgya
+    rong mkha' 'gro bde chen dbang mo, b. 1868), a female treasure-revealer and famed
+    ḍākinī of recent times.
+  volume:
+    91469af67b384390946b97f8b27adba6:
+      title: Letter to Gyarong Khandro
+      parent: Letters
+    f1040955445e4a7c80961bbd35f49f9e:
+      title: 'Vajrakīla Prayer: A Rain of Accomplishments'
+      parent: Lineage Prayers
+    f80f6721d55342cbb7c24a65860df83c:
+      title: Prayer to Gyarong Khandro Dechen Wangmo
+      parent: Prayers
+created_at: '2022-02-28T23:30:22.220751'
+last_modified_at: '2022-02-28T23:30:22.220757'
